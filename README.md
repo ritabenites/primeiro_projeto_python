@@ -1,4 +1,4 @@
-# primeiro_projeto_python# Primeiro Projeto Python
+# Primeiro Projeto Python
 
 Este é meu primeiro código em Python, feito enquanto estou aprendendo 
 lógica de programação e Python do zero.
